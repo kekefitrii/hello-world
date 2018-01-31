@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+
+Hi Guys...
+
+Ike here, I like java's programming and android
+let's we learn together...
